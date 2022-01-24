@@ -1,0 +1,342 @@
+*******
+Fonts
+*******
+
+
+
+***************************************************************************
+
+Navbar links: Roboto
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+****************************************************************************
+
+			PAGE-1
+Headings: Inter
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 70px;
+line-height: 86px;
+color: #0F2B4A;
+
+Body: Roboto
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 30px;
+color: #576B81;
+Search Box Items: Inter
+
+sb-Heading
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: #0F2B4A;
+
+
+sb-body
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+color: #576B81;
+
+********************************************************************
+				PAGE-2
+Heading: Inter
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 58px;
+color: #0F2B4A;
+-----
+
+Card-heading
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 31px;
+text-align: center;
+color: #0F2B4A;
+
+------
+
+Card-body
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+color: #576B81;
+
+**************************************************************
+
+			PAGE-3
+
+Heading: Inter
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 62px;
+
+/* or 129% */
+
+color: #0F2B4A;
+
+
+
+Body: Roboto
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+
+/* or 162% */
+
+color: #576B81;
+
+
+
+
+Card-Price
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+/* identical to box height */
+letter-spacing: 0.02em;
+
+color: #2289FF;
+
+
+Button-prototype
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+
+/* identical to box height */
+
+color: #576B81;
+
+
+
+Button-see-all-property
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+Card-Heading
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 27px;
+
+/* identical to box height */
+
+color: #0F2B4A;
+
+
+Card-Body
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+
+/* identical to box height */
+
+color: #576B81;
+
+
+
+Card-specifications
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+
+/* identical to box height */
+
+color: #576B81;
+
+
+
+Card-button
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 12px;
+
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+****************************************************************************
+				PAGE-4
+
+Heading
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+/* identical to box height */
+text-align: right;
+
+color: #576B81;
+
+
+
+
+Body
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+/* identical to box height */
+text-align: right;
+
+color: #576B81;
+
+
+
+
+Nametag
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #0F2B4A;
+
+
+
+**************************************************
+			FOOTER
+
+Heading1
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 58px;
+
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+
+Body1
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+
+/* or 156% */
+
+color: #B6BEC8;
+
+
+
+
+Heading2
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #0F2B4A;
+
+
+
+Body2
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 32px;
+
+/* or 200% */
+
+color: #576B81;
+
+
+
+
+Search-label
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+*****************************************************************
+			COLORS
+button-fill	#2289FF
+footer		#0F2A47
+Text-headings	#0F2B4A
+Text-body	#576B81
+Text-prices	#2289FF
+******************************************************************
+			ICONS
+Bed		<i class="fas fa-bed"></i>
+Bath		<i class="fa fa-bath" aria-hidden="true"></i>
+Favourite	<i class="fa fa-heart-o" aria-hidden="true"></i>
+
+

@@ -1,0 +1,622 @@
+*{
+    border:0;
+    padding: 0;
+}
+
+
+/* Page-1 CSS */
+.Page-1-Body-content{
+    height:100vh;
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.Page-1-Heading{
+    font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 70px;
+line-height: 86px;
+color: #0F2B4A;
+
+}
+.Page-1-Body{
+    
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 30px;
+color: #576B81;
+}
+.Page-1-img-container{
+    text-align: center;
+}
+.Page-1-img-container>img{
+    width:80%;
+    margin:0px auto;
+
+}
+.Page-1-Search-box{
+    margin-top: 20px;
+}
+.Page-1-sb-body{
+    font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+color: #576B81;
+
+}
+
+/* ***************************************************** */
+
+
+
+/* Page 2 CSS */
+.Page-2-Header-container>img{
+    width: 90%;
+    margin:0 auto;
+}
+.Page-2-Body-Content{
+    width:100%;
+    height:100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+
+}
+
+.Page-2-Heading{
+    font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 58px;
+color: #0F2B4A;
+}
+
+.Page-2-Card-Heading{
+    font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 31px;
+text-align: center;
+color: #0F2B4A;
+margin: 10% 0;
+}
+.Page-2-Card-Body{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+color: #576B81;
+width:70%;
+margin: 0 auto;
+}
+
+
+/* ***************************************************** */
+/* Page 3 CSS */
+.Page-3-Body-Content{
+    width:100%;
+    height:100vh;
+    display:flex;
+    flex-direction: column;
+    
+}
+.Page-3-Heading{
+    font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 62px;
+color: #0F2B4A;
+
+}
+.Page-3-Body{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+color: #576B81;
+}
+.Page-3-Header{
+    align-items: center;
+    
+    
+}
+
+.btn-proto{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;    
+    color: #576B81;
+    box-shadow: rgba(0,0,0,0.2) 0px 0px 3px ;
+    background-color: transparent;
+    border-radius: 5px;
+    Padding:5%;
+    margin:0px auto;
+    
+}.btn-see-all{
+    font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+color: #FFFFFF;
+background-color: #2289FF;
+border-radius: 5px;
+Padding:5%;
+}
+.Page-3-Card-Icon{
+    color:#2289FF;
+}
+.Page-3-Card{
+    width: 45%;
+    margin:10px auto;
+    
+}
+.Page-3-Card-Text{
+    display:flex;
+    flex-direction: column;
+    justify-content:space-around;
+    box-shadow: rgba(0,0,0,0.2) 0px 0px 3px;
+    
+}
+.Page-3-Card-Price{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    
+    /* identical to box height */
+    letter-spacing: 0.02em;
+    
+    color: #2289FF;
+}.Page-3-Card-Heading{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 27px;
+    
+    /* identical to box height */
+    
+    color: #0F2B4A;
+    
+}.Page-3-Card-Body{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    
+    /* identical to box height */
+    
+    color: #576B81;
+}.Page-3-Card-Btn{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+    
+    /* identical to box height */
+    text-align: center;
+    background-color: #2289FF;
+    border-radius: 3px;
+    width:fit-content;
+    padding:4%;
+    color: #FFFFFF;
+    
+}.Page-3-Card>.col-md-5>img{
+    width:100%;
+    height:100%;
+}
+/* ************************************************** */
+
+
+/* Page-4 CSS */
+.Page-4-Body-Content{
+    width:100%;
+    height:100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Page-4-Heading{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 62px;
+    color: #0F2B4A;
+    
+}.Page-4-Body{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    
+    /* identical to box height */
+    text-align: right;
+    
+    color: #576B81;
+}.Page-4-Nametag{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    
+    color: #0F2B4A;
+    
+}.Page-4-Rating{
+width:100%;
+}
+.Page-4-Center-Section>div{
+    margin:5% 0px;
+    text-align: center;
+}
+
+/* ************************************************************* */
+
+/* Footer CSS */
+.Footer-Body-Content{
+    width:100%;
+    height:100vh;
+
+}
+.Footer-Contact-Section{
+    height:50vh;
+    background-color: #0F2A47;
+    align-items: center;
+    
+
+}
+.Footer-Heading-1{
+    font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 58px;
+
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.Footer-Body-1{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+color: #B6BEC8;
+}
+.form-label-footer{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+.Footer-Section-1-Text{
+    text-align: center;
+}.form-outline{
+    display:flex;
+    flex-direction: row;
+    
+}.Footer-Section-2{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    height: 30vh;
+    margin:2% auto;
+    
+}.Footer-Heading-2{
+    font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #0F2B4A;
+}.Footer-Body-2{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 32px;
+
+/* or 200% */
+
+color: #576B81;
+
+}.Footer-Section-3{
+   margin:2% auto;
+}
+.Footer-Section-3-CopyRt{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;    
+    color: #576B81;
+}
+
+/* ************************************************ */
+
+/* Navbar CSS */
+.navbar-nav{
+
+    margin-left:auto;
+    margin-right: 15%;
+}
+.nav-link{
+    text-decoration: none;
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+color: #576B81;
+
+}.nav-item{
+    padding:3%;
+    display: flex;
+    align-items: center;
+    
+}
+.Navbar-btn-1{
+    border: #2289FF solid 1px;
+    background-color: #ffffff;
+    color: #2289FF;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    width: 100px;
+    
+}
+.Navbar-btn-2{
+   
+    background-color:#2289FF;
+    color: white;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    width: 100px;
+}
+
+
+/* ************************************************** */
+
+/* CSS Responsive Breakepoints */
+
+@media only screen and (max-width: 900px) {
+     /* Page-1 CSS */
+.Page-1-Heading{
+   
+font-weight: 500;
+font-size: 40px;
+line-height: 46px;
+
+
+}
+.Page-1-Body{
+font-size: 15px;
+line-height: 25px;
+}
+.Page-1-Search-box{
+    margin: 20px ;
+ 
+}
+/* ***************************************************** */
+
+/* Page 2 CSS */
+.Page-2-Header-container>img{
+    margin:0 auto;
+    
+}
+.Page-2-Body-Content{
+   
+    height:100%;
+    margin:20% 0px;
+    overflow: hidden;
+
+
+}
+
+.Page-2-Heading{
+
+font-weight: 500;
+font-size: 38px;
+line-height: 38px;
+margin:20% 0px;
+}
+.Page-2-Card{
+    margin:5% 0;
+}
+.Page-2-Card-Heading{
+font-weight: 500;
+font-size: 26px;
+line-height: 21px;
+text-align: center;
+margin: 5% 0;
+}
+.Page-2-Card-Body{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+color: #576B81;
+width:70%;
+margin: 0 auto;
+}
+
+
+/* ***************************************************** */
+/* Page 3 CSS */
+.Page-3-Body-Content{
+    height: 100%;
+}
+.Page-3-Heading{
+margin:5% 0px;
+font-weight: 600;
+font-size: 38px;
+line-height: 52px;
+
+
+}
+.Page-3-Body{
+font-size: 14px;
+line-height: 26px;
+}
+.Page-3-Header{
+    align-items: center;
+    text-align: center;
+    
+    
+}
+.btn-proto{
+  
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;    
+    Padding:5%;
+    margin:20px auto;
+    
+}.btn-see-all{
+   
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+Padding:5%;
+margin:20px auto;
+}
+.Page-3-Card{
+    width: 100%;
+    margin:20px auto;
+}
+.Page-3-Card-Text{
+    box-shadow: none;
+}
+.Page-3-Card-Price{
+    font-size: 24px;
+    line-height: 29px;  
+    letter-spacing: 0.02em;
+}.Page-3-Card-Heading{
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 27px;
+    
+}.Page-3-Card-Body{
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+}.Page-3-Card>.col-md-5>img{
+    width:100%;
+    height:100%;
+}
+/* ************************************************** */
+
+/* Page-4 CSS */
+.Page-4-Body-Content{
+    height:100%;
+}
+.Page-4-Heading{
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 45px;
+
+    
+}.Page-4-Body{
+    font-size: 14px;
+    line-height: 19px;
+  
+}
+.Page-4-Center-Section{
+    margin:2% auto;
+    text-align: center;
+}
+.Page-4-Center-Section>div{
+    margin:5% 0px;
+    text-align: center;
+}.Page-4-Grp-Img-Side{
+    display:none;
+}
+/* ************************************************************* */
+
+/* Footer CSS */
+.Footer-Body-Content{
+   
+    height:100%;
+
+}
+.Footer-Contact-Section{
+    height:fit-content;
+    padding: 5% 0;
+    
+
+}
+.Footer-Heading-1{
+font-weight: 500;
+font-size: 40px;
+line-height: 48px;
+margin: 10% 0px;
+
+}
+.Footer-Body-1{
+font-size: 18px;
+line-height: 28px;
+}
+.Footer-Search-Box{
+    justify-content: center;
+    align-items: center;
+}
+.Footer-Heading-2{
+   
+    margin:3% auto;
+}
+.Footer-Section-3-CopyRt{
+   display:none;
+}
+
+/* ************************************************ */
+
+/* Navbar CSS */
+.navbar-nav{
+    margin:2% auto;
+}
+.nav-item{
+    padding:0 3%;
+    margin:2% auto;
+    align-items: center;
+}
+}
